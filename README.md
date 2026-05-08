@@ -1,4 +1,5 @@
 <div align="center">
+
 # Power Ring
 
 A Python visualization tool that creates an elegant circular progress indicator display using matplotlib and NumPy.
